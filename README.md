@@ -1,6 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -11,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://media.giphy.com/media/k8aQj7ocnGObrJLsja/giphy.gif"
+  <img  src="https://media.giphy.com/media/k8aQj7ocnGObrJLsja/giphy.gif" 
        alt="snake" /></a>
 </div>
 
@@ -19,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block"> ⭐It always seems impossible, until it's done⭐ </h2></summary>
   </ul>
 </div>
 
